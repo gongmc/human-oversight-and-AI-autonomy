@@ -1,0 +1,9 @@
+prisma_domain,status,evidence_file,note
+Eligibility criteria,completed_for_title_abstract_evidence_map,00_screening_protocol.md; 03_adjudicator_C_final_record_all_records.csv,Eligibility rules and core/contextual/exclude labels are documented.
+Information sources and search strategy,completed_for_pubmed_axis_searches,search_strategy.md; search_records/pubmed_axis_*_query.txt,"Search date, time window, and axis-specific PubMed queries are stored locally."
+Selection process,completed_as_AI_assisted_dual_screening; requires human verification for journal submission,dual_screening_adjudication/*.csv,"Two virtual screeners plus adjudicator records exist for all 2,772 records."
+Data collection process,completed_at_abstract_level,01_prisma_core_record_extraction.csv,Core records have structured abstract-level extraction; full-text extraction remains pending.
+Study risk of bias assessment,pending_full_text_review,quality_appraisal_template.csv,No definitive RoB/JBI/AMSTAR appraisal should be claimed until full texts are reviewed.
+Effect measures,not_applicable_for_corpus_level_clinical_pooling,05_conventional_meta_analysis_feasibility.csv,No single PICO/effect measure is shared across the core corpus.
+Synthesis methods,completed_for_evidence_structure; clinical_effect_meta_analysis_not_performed,04_random_effects_meta_analysis_of_evidence_proportions.csv,Random-effects meta-analysis was limited to year-stratified evidence proportions.
+Reporting bias and certainty assessment,pending_full_text_review,not_yet_available,"Requires full-text appraisal, protocol registration details, and study-level outcome definitions."

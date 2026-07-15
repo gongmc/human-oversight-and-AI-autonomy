@@ -1,0 +1,4 @@
+question,judgement,reason
+Can a conventional clinical-effect meta-analysis be performed across all 532 core records?,No,"The corpus mixes pediatric AI applications, adult transferable LLM benchmarks, governance frameworks, observational studies, trials, reviews, and commentaries; PICO, outcomes, comparators, and effect measures are not commensurable."
+Can model-performance metrics be pooled?,Not valid at corpus level,"AUC, accuracy, sensitivity, specificity, hallucination, unsafe advice, usability, workflow, and governance outcomes refer to different tasks and denominators."
+What quantitative synthesis was performed?,Random-effects meta-analysis of evidence-map proportions,"Publication-year strata were used to estimate pooled proportions of evidence classes and VIM dimensions among core records; this is a structural evidence meta-analysis, not a pooled clinical treatment or diagnostic accuracy estimate."

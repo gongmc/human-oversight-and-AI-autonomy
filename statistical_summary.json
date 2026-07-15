@@ -1,0 +1,76 @@
+{
+  "prisma_flow": {
+    "records_identified_pubmed_axis_searches": 2770,
+    "additional_concept_anchor_records": 2,
+    "records_screened_title_abstract": 2772,
+    "records_excluded_after_adjudicated_title_abstract": 867,
+    "records_retained_contextual_evidence": 1373,
+    "records_included_core_synthesis": 532,
+    "core_pediatric_evidence": 170,
+    "core_foundational_transferable_evidence": 362,
+    "records_requiring_C_adjudication": 1401
+  },
+  "core_by_year": {
+    "2021": 8,
+    "2022": 19,
+    "2023": 52,
+    "2024": 93,
+    "2025": 199,
+    "2026": 161
+  },
+  "core_by_evidence_class": {
+    "core_foundational_transferable_evidence": 362,
+    "core_pediatric_evidence": 170
+  },
+  "core_by_design": {
+    "benchmark_or_model_evaluation": 298,
+    "randomized_trial": 65,
+    "systematic_review_or_meta_analysis": 44,
+    "implementation_or_workflow_study": 41,
+    "other_or_unclear": 30,
+    "observational_or_cross_sectional": 23,
+    "framework_guideline_policy": 17,
+    "qualitative_or_survey": 13,
+    "viewpoint_or_commentary": 1
+  },
+  "core_by_ai_type": {
+    "LLM_or_generative_AI": 326,
+    "clinical_decision_support_or_algorithmic_tool": 92,
+    "machine_learning_or_deep_learning": 52,
+    "AI_or_algorithmic_system_unclear_subtype": 49,
+    "chatbot_or_conversational_AI": 8,
+    "ambient_scribe_or_documentation_AI": 5
+  },
+  "core_by_journal_top20": {
+    "NPJ digital medicine": 237,
+    "JAMA network open": 78,
+    "The Lancet. Digital health": 41,
+    "Nature communications": 40,
+    "Nature medicine": 34,
+    "Nature": 12,
+    "NEJM AI": 12,
+    "PLoS medicine": 11,
+    "JAMA pediatrics": 11,
+    "Cell reports. Medicine": 8,
+    "BMJ (Clinical research ed.)": 7,
+    "Lancet (London, England)": 7,
+    "JAMA": 6,
+    "Annals of internal medicine": 5,
+    "The Lancet. Child & adolescent health": 5,
+    "Nature biomedical engineering": 4,
+    "Cell": 3,
+    "Nature machine intelligence": 3,
+    "Nature human behaviour": 2,
+    "Science translational medicine": 2
+  },
+  "core_axis_counts": {
+    "A1_child_agency_proxy_decision": 74,
+    "A2_safety_utility_action_threshold": 263,
+    "A3_evidence_boundary_epistemic_responsibility": 279,
+    "A4_equity_context_access": 428,
+    "A5_communication_empathy_nonsycophancy": 157,
+    "A6_accountability_consent_traceability": 243,
+    "A7_resource_allocation_incentives": 138,
+    "A8_human_ai_role_boundaries": 194
+  }
+}
